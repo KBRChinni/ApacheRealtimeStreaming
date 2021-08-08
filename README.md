@@ -10,6 +10,7 @@
 - Git
 - Apache Maven
 - Arduino IDE
+- Any Cloud VM.
 
 ### Hardware
 - NodeMCU (ESP8266)
